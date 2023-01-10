@@ -1,7 +1,9 @@
+# Algunos tips para el uso de Github
 
-# Insertar videos de youtube en el Readme.md de Github:
 
-### Copiar el texto de abajo en el editor y donde dice "configuroweb" reemplazar por el codigo del video que quiero que aparezca:
+# Insertar videos de youtube en el Readme.md
+
+### Copiar el texto oculto abajo en el editor y donde dice "configuroweb" reemplazar por el codigo del video que quiero que aparezca:
 <!-- [![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=configuroweb) -->
 
 [![Alt text](https://img.youtube.com/vi/7gln2J7ILmw/0.jpg)](https://www.youtube.com/watch?v=7gln2J7ILmw)
